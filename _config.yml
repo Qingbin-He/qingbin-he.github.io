@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Qingbin He                    # 浏览器标签页上显示的标题
-first_name: Qingbin                  # 你的名
-last_name: He                        # 你的姓
-email: highqb1993@163.com            # 你的联系邮箱
+title: Qingbin He # 浏览器标签页上显示的标题
+first_name: Qingbin # 你的名
+last_name: He # 你的姓
+email: highqb1993@163.com # 你的联系邮箱
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Associate Professor at Shandong First Medical University. Focus on Medical Physics and Nanotechnology.
-footer_text: >                       # 网页最底部的文字 (可选)
+footer_text: > # 网页最底部的文字 (可选)
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
 keywords: Medical Physics, Nanotechnology, MRI Nano-imaging, Shandong First Medical University, Qingbin He
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: "https://qingbin-he.github.io"  # 必须改成你的网址
-baseurl: ""                          # 保持为空，不要动！
+baseurl: ""    # 保持为空，不要动！
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -262,10 +262,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [He]           # ✅ 改成你的姓
-  first_name: [Qingbin]     # ✅ 改成你的名
+  last_name: [He] # 改成你的姓
+  first_name: [Qingbin] # 改成你的名
 
-  style: apa                # 引用格式，医学通常用 apa 或 ieee，默认 apa 即可
+  style: apa   # 引用格式
   locale: en
 
   source: /_bibliography/
