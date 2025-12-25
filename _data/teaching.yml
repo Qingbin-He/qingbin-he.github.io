@@ -1,0 +1,33 @@
+- title: Undergraduate Courses (本科生课程)
+  type: time_table
+  contents:
+    - title: Medical Physics (医学物理学)
+      year: Fall
+      institution: Freshman (Year 1)
+      description: 
+        - This course introduces the fundamental principles of physics as applied to medicine. 
+        - Topics include biomechanics, fluids, bioelectricity, and an introduction to medical imaging modalities.
+
+    - title: Radiation Physics and Protection (放射物理与辐射防护学)
+      year: Spring
+      institution: Junior (Year 3)
+      description: 
+        - Focused on the interaction of ionizing radiation with matter, radiation dosimetry, and safety standards.
+        - Emphasizes the principles of radiation protection for both patients and medical staff.
+
+- title: Graduate Courses (研究生课程)
+  type: time_table
+  contents:
+    - title: Fundamentals of Medical Research (医学科学研究基础)
+      year: Graduate
+      institution: Methodology
+      description: 
+        - A comprehensive guide to scientific research methodology, experimental design, and data analysis.
+        - Covers research ethics and skills for academic writing and publishing.
+
+    - title: Frontiers in Medical Physics (医学物理前沿)
+      year: Graduate
+      institution: Advanced
+      description: 
+        - Exploring cutting-edge developments and emerging technologies in medical physics.
+        - Topics include nanomedicine, molecular imaging, theranostics, and AI applications.
