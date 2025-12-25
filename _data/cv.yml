@@ -25,12 +25,12 @@
       institution: University of Science and Technology of China (USTC)
       year: 2021
       description:
-        - Supervisor: Quan Chen
+        - "Supervisor: Quan Chen"
     - title: B.S. in Polymer Materials and Engineering
       institution: Qingdao University of Science and Technology (QUST)
       year: 2016
       description:
-        - Supervisor: Wei Wang
+        - "Supervisor: Wei Wang"
 
 - title: Experience
   type: time_table
@@ -53,8 +53,8 @@
     - title: Shandong Provincial Natural Science Foundation (Youth Project)
       year: 2024 - 2026
       description: 
-        - Funding: 150,000 RMB
-        - Topic: Manganese-based nano-platform-mediated tumor immunotherapy
+        - "Funding: 150,000 RMB"
+        - "Topic: Manganese-based nano-platform-mediated tumor immunotherapy"
 
 - title: Honors and Awards
   type: time_table
@@ -66,4 +66,4 @@
 - title: Academic Interests
   type: list
   contents:
-    - item: Youth Editorial Board Member of *Biomaterials Translational*
+    - Youth Editorial Board Member of *Biomaterials Translational*
